@@ -1,6 +1,6 @@
 ---
 title: "SerpClix: A Closer Look at Earning Passive Income Through Simple Search Clicks"
-date: 2026-01-02
+date: 2026-01-01
 ---
 
 Can You Really Get Paid to Search on Google? Here’s the Honest Truth.
