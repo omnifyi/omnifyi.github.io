@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "SerpClix: A Closer Look at Earning Passive Income Through Simple Search Clicks"
 date: 2026-01-01
 categories: [Side Hustle, Passive Income]
