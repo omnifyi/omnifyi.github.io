@@ -141,3 +141,35 @@ blockquote {
     color: #cbd5f5;
   }
 }
+/* ===== Homepage Post Cards ===== */
+
+.post-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.post-card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.post-card h2 {
+  margin-top: 0;
+}
+
+.post-meta {
+  color: #6b7280;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+/* Dark mode cards */
+@media (prefers-color-scheme: dark) {
+  .post-card {
+    background: #020617;
+    border: 1px solid #1e293b;
+  }
+}
