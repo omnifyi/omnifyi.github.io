@@ -1,7 +1,19 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
+## About This Blog
+
 Hi 👋  
-This is my personal blog where I write about tech, learning, and ideas.
+This blog is where I write about things I learn, share, and experiment with.
+
+### What you’ll find here
+- Tutorials
+- Practical guides
+- Real-world examples
+- Personal notes
+- Side hustle
+
+Thanks for reading 🙂
