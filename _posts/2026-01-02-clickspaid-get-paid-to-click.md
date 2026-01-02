@@ -2,6 +2,8 @@
 layout: post
 title: "ClicksPaid: The Direct $5 Bitcoin Competitor to SerpClix for Your Clicking Side Hustle"
 date: 2026-01-02
+post_id: clickpaid-side-hustle
+lang: en
 categories: [Side Hustle, Passive Income]
 tags: [earn online, clickspaid]
 ---
