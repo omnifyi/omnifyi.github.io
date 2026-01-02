@@ -16,3 +16,8 @@ plugins:
   - jekyll-paginate
 default_lang: en
 languages: ["en", "hi"]
+collections:
+  posts_hi:
+    output: true
+    permalink: /hi/:title/
+
