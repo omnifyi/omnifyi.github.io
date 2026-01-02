@@ -65,4 +65,5 @@ You’ve already validated the model. Now, scale it.
 
 **Ready to double your click income with almost zero extra effort?**
 **Visit [ClicksPaid](https://www.clickspaid.com/?jobs_ref=e8b52c46e86644dc829243dc7d2be8ce), install the extension, and let your second payout stream begin.**
+
 *Disclaimer: Earnings are based on task availability, which varies by geographic location and advertiser demand. Consistency is key to reaching payout thresholds.*
