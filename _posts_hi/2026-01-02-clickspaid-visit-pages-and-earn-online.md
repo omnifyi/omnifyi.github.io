@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ClicksPaid](https://omnifyi.github.io/side%20hustle/passive%20income/2026/01/02/clickspaid-get-paid-to-click.html): आपके क्लिकिंग साइड हसल के लिए SerpClix का सीधा $5 बिटकॉइन कॉम्पिटिटर"
+title: "ClicksPaid: आपके क्लिकिंग साइड हसल के लिए SerpClix का सीधा $5 बिटकॉइन कॉम्पिटिटर"
 date: 2026-01-02
 post_id: clickpaid-side-hustle
 lang: en
