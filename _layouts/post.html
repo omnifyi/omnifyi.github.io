@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+{% assign current_lang = page.lang | default: site.default_lang %}
+{% assign translated = nil %}
+
+{% if current_lang != site.default_lang %}
+  {% for p in site.posts_hi %}
+    {% if p.post_id == page.post_id %}
+      {% assign translated = p %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 
 <article>
   <h1>{{ page.title }}</h1>
